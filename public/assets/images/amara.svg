@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#008751" />
+  <rect x="266" y="0" width="266" height="600" fill="#FFFFFF" />
+  <text x="400" y="320" font-family="Arial" font-size="80" fill="#008751" text-anchor="middle" font-weight="bold">2,300,000</text>
+  <text x="400" y="420" font-family="Arial" font-size="30" fill="#008751" text-anchor="middle">Amara in Lagos, Nigeria</text>
+</svg>

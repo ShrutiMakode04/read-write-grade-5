@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#2E8B57" />
+  <circle cx="400" cy="300" r="200" fill="#FFD700" />
+  <circle cx="400" cy="300" r="150" fill="#00008B" />
+  <text x="400" y="320" font-family="Arial" font-size="80" fill="white" text-anchor="middle" font-weight="bold">1,500,000</text>
+  <text x="400" y="420" font-family="Arial" font-size="30" fill="white" text-anchor="middle">Carlos in Rio, Brazil</text>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "intro": "Welcome to Large Numbers! Let's learn to read and write numbers up to ten million.",
+  "wonder": "Did you know that distances in space or populations of big cities are written with millions? We use commas to break these massive numbers into smaller groups called periods. Each period has ones, tens, and hundreds. Let's explore how to read and write these giant numbers!",
+  "story_1": "Yuki's city is huge with exactly 9700000 people! That's hard to read, right? Let's add commas to group the digits in sets of three: 9,700,000! Now it's much simpler!",
+  "story_2": "Sofia is visiting the Eiffel Tower. Did you know six million nine hundred thousand people visit it every year? Let's write this in numerals: 6,900,000!",
+  "story_3": "Priya from Mumbai sees a giant number for the population. She writes it out using words instead of digits. This is called Word Form!",
+  "story_4": "Carlos read that one million, five hundred thousand people visited this sunny beach. What is the value of the 5? It's in the hundred-thousands place, so it means 500,000!",
+  "story_5": "Amara sees a digital billboard showing her city grew by two million, three hundred thousand people. Big numbers are everywhere! Are you ready to try building large numbers yourself?",
+  "station_1": "Click a card below, then click a box to place it! Match the correct forms",
+  "station_2": "Drop tokens to match the Expanded Form",
+  "station_3": "Fuse the blocks to create",
+  "station_4": "Build the LARGEST possible number using all digits!",
+  "correct": "Correct!",
+  "wrong": "Try again!",
+  "tap": "tap", 
+  "play_intro": "Welcome to the Play Phase! Get ready for the challenges. Let's see what you've learned.",
+  "reflect": "Congratulations! You are now a Number Master! You've successfully learned how to read, write, and build numbers all the way up to ten million."
+}
